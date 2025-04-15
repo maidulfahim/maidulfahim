@@ -1,55 +1,27 @@
-Here's your introduction formatted in HTML:  
+# 💫 About Me:
+👋 Hi there, I'm Maidul Islam<br>🎓 I'm a Computer Science & Engineering student at Uttara University <br>💻 Currently learning HTML, CSS, JavaScript, Java, and C with a goal to dive into Cybersecurity<br>🧠 Exploring C#, Graph Theory, and System Programming<br>🐧 Linux user (Ubuntu gang 💪)<br>🌐 Interested in building cool things and learning something new every day
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me - Maidul Islam</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 50px;
-        }
-        .container {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            display: inline-block;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
 
-    <div class="container">
-        <h1>👋 Hi, I'm Maidul</h1>
-        <p>👀 I'm interested in <strong>Computer Science, Software Development, and Machine Learning.</strong></p>
-        <p>🌱 I'm currently learning <strong>Advanced Algorithms and Data Structures.</strong></p>
-        <p>💞️ I'm looking to collaborate on <strong>Open-Source Projects and Innovative Tech Solutions.</strong></p>
-        <p>📫 How to reach me: <a href="[your LinkedIn or Email]">Contact Me</a></p>
-        <p>😄 Pronouns: <strong>He/Him</strong></p>
-        <p>⚡ Fun fact: <strong>I love solving coding challenges and participating in hackathons!</strong></p>
-    </div>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Maidul islam) 
 
-</body>
-</html>
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maidul islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Maidul islam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maidul islam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Replace `[
-mdmaiduli270@gmail.com]` with your actual contact details. Let me know if you want any modifications! 🚀
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maidul islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Maidul islam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Maidul islam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
